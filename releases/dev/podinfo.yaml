@@ -16,7 +16,7 @@ spec:
   values:
     image:
       repository: malaikat14/podinfo
-      tag: dev-ja4escwh
+      tag: dev-omojq8ij
     replicaCount: 1
     hpa:
       enabled: false
