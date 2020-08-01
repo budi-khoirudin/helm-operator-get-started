@@ -16,7 +16,7 @@ spec:
   values:
     image:
       repository: malaikat14/podinfo
-      tag: stg-5oruuhrp
+      tag: stg-fk6afkgj
     replicaCount: 2
     hpa:
       enabled: true
